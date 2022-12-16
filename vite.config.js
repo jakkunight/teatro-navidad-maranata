@@ -1,3 +1,3 @@
 export default {
-	base: "/teatro-navidad-maranata/"
+	//base: "/teatro-navidad-maranata/"
 };
