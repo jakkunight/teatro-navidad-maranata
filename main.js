@@ -8,5 +8,6 @@ deck.initialize({
 	controls: false,
 	progress: false,
 	transition: "none",
-	hideCursorTime: 0
+	hideCursorTime: 0,
+	plugins: [ RevealNotes ]
 });
